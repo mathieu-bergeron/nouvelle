@@ -11,7 +11,7 @@ Comment est contrôlé la reproduction? P.ex
 1. Courage: liberté + restrictions volontaires (via l'IA de délibération assistée) + pression sociale, i.e. un système pour minimiser les comportements anti-sociaux
 1. Harmonie: aucun contrôle, la population suit une logique écologique (comme les animaux sauvages)
 
-## Éviter la guerre (résolution de conflit)
+## Éviter la guerre (résolution de conflit, prise de décision en général)
 
 Un thème à aborder dans toutes les nouvelles est comment la Solution permet d'éviter la guerre.
 
@@ -30,5 +30,4 @@ Un thème à aborder dans toutes les nouvelles est comment la Solution permet d'
 1. Transmission: carburant pour la fusée
 1. Courage: solaire, éolien, marée, thermique, hydroélectrique, etc.
 1. Harmonie: aucune énergie, sauf peut-être un peu de moulin à vent, moulin à eau
-
 
