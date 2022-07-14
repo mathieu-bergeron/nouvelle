@@ -22,3 +22,13 @@ Un thème à aborder dans toutes les nouvelles est comment la Solution permet d'
 1. Courage: comme pour contrôle de la reproduction:
     * liberté + restrictions volontaires (via l'IA de délibération assistée) + pression sociale, i.e. un système pour minimiser les comportements anti-sociaux
 1. Harmonie: rituels et sinon réduction des méfaits avec des batailles courtes et rapidement symboliques
+
+## Source d'énergie
+
+1. Autarcie: solaire, produite par les briques (qui ne demande pas beaucoup d'énergie)
+1. Discipline: omnivore, l'Armée va prendre tout ce qu'elle trouve, y compris le pétrole 
+1. Transmission: carburant pour la fusée
+1. Courage: solaire, éolien, marée, thermique, hydroélectrique, etc.
+1. Harmonie: aucune énergie, sauf peut-être un peu de moulin à vent, moulin à eau
+
+
