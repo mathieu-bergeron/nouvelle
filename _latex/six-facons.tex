@@ -1,0 +1,90 @@
+%% nmap <tab> :w<enter>:!sh scripts/pdf.sh;sh scripts/pdf.sh<enter><enter>
+\documentclass[french,11pt]{report} % book
+
+\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[htt]{hyphenat}
+\usepackage{times}
+
+
+\usepackage{xcolor}
+
+\usepackage{makeidx}
+\usepackage[hyphens]{url}
+%\usepackage{hyperref}
+\usepackage{cite}
+\usepackage{epigraph}
+\usepackage{setspace}
+\usepackage{longtable}
+
+
+\usepackage{ragged2e}
+%\usepackage{kpfonts}
+
+\usepackage{everysel}
+
+
+\setlength\epigraphwidth{8cm}
+\setlength\epigraphrule{0pt}
+
+\newcommand\inspiration[2]{\epigraph{«\textit{#1}»}{#2}}
+
+
+%\usepackage[
+    %type={CC},
+    %modifier={by-sa},
+    %imagemodifier={-us},
+    %imageposition={right},
+    %imagedistance={1pt},
+    %version={3.0},
+%]{doclicense}
+
+
+
+% Avec commentaires
+\newcommand\commentaire[1]{\{p.\pageref{#1}\}}
+% Sans commentaires
+%\newcommand\commentaire[1]{}
+
+
+\input{definitions.tex}
+
+
+\usepackage{vmargin}
+\setpapersize{USletter}
+%% \setmarginsrb{leftmargin}{topmargin}{rightmargin}{bottommargin}%
+%%              {headheight}{headsep}{footheight}{footskip}
+\setmarginsrb{35mm}{10mm}{35mm}{20mm}
+             {12pt}{10mm}{24pt}{20mm}
+
+\title{Six façons de survivre aux changements climatiques\\~\\\Large \{~Nouvelles de science-fiction~\}} \author{Mathieu Bergeron}
+
+
+%% XXX: pour version finale seulement??
+\spacing{1.25}
+
+
+\begin{document}
+
+
+\maketitle
+
+%% XXX: fonctionne mieux avec pdflatex
+% \doclicenseThis
+
+
+%\setcounter{tocdepth}{0}
+\tableofcontents
+
+%\input{remerciements.tex}
+
+\input{prologue.tex}
+
+\input{autarcie.tex}
+
+
+
+
+
+\end{document}
