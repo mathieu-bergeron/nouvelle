@@ -30,6 +30,9 @@
     * codératie: 0%
     * crimes violents: 25%
 
+https://ourworldindata.org/ethnographic-and-archaeological-evidence-on-violent-deaths
+   
+
 ## Livres pour enfant
 
 Chaque nouvelle devrait être compatible avec une histoire pour enfant. 
