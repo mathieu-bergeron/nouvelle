@@ -1,6 +1,14 @@
-\chapter{Autarcie}
+\addcontentsline{toc}{chapter}{Prologue}
+\chapter*{Prologue}
 
-
+Dans le siècle à venir, face aux cataclysmes et aux conflits, l'humanité va
+démontrer quelque chose d'innatendu: les grandes puissances vont annoncer une
+alliance surprise et débloquer des fonds sans précédent pour un projet nommé
+\textit{\nomProjet{}} (\nomProjetEn{}), un projet Manhattan multinational, un
+effort titanesque visant à éviter une enième guerre mondiale, visant à se
+débarrasser une fois pour toute de la menace climatique.  Les nations plus
+petites se rallieront rapidement.  Tout ce qui restait de force vive à
+l'humanité s'est engagé pour la cause: survivre.
 
 
 Nous sommes au \siecle. La vie n'est pas si mal pour les humains, même si le
@@ -13,10 +21,7 @@ Quatre cents ans à survire.
 Pour vous expliquer comment l'humanité a su se transformer, j'aimerais
 laisser la parole à \nomMere{}, 32 ans, et à son fils \nomEnfant{}, 8 ans.
 Mais pour rendre ma fiction utile, je dois d'abord faire un peu
-d'histoire.  
-
-
-Le projet \nomProjet{} s'est déployé à une vi\-tesse
+d'histoire.  Le projet \nomProjet{} s'est déployé à une vi\-tesse
 fulgurante, recrutant parmi une vaste fourchette d'expertises.  On y
 retrouvait des autochtones, venus partager leur connaissance intime de la
 terre, guidant des sommités mathé\-matiques dans leur modélisation du climat et
