@@ -13,3 +13,9 @@
 %\newenvironment{prologueFont}{}{}
 
 \newcommand{\sautSection}{\bigskip\parbox{\textwidth}{\center *** }\bigskip\bigskip}
+
+\newcommand{\nouvelle}[1]{%
+\addtocounter{chapter}{1}%
+\addcontentsline{toc}{chapter}{\arabic{chapter}. #1}%
+\chapter*{\arabic{chapter}. #1}%
+}
